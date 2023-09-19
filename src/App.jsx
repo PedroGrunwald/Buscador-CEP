@@ -1,4 +1,6 @@
 import { FiSearch } from "ract-icons/fi";
+import "./styles/style.css"
+
 
 function App() {
   return (
